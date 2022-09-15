@@ -1,6 +1,5 @@
 external:
   year: 2022
-  value: true
   api:
     name: lgcns
     key: 123123
